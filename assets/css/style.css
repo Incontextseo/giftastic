@@ -1,8 +1,8 @@
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    background-color: #ffffff;
+    background-color: grey;
     color: #777777;
-    background-image: url("https://wallpapercave.com/wp/2BDXYhN.jpg");
+    /* background-image: url("https://wallpapercave.com/wp/2BDXYhN.jpg"); */
 }
 
 .site-header {
@@ -98,11 +98,11 @@ a:hover {
     height: auto;
 } */
 
-.show-button {
+/* .show-button {
     margin: 5px;
     background-color: #4aaaa5;
     color: #ffffff;
-}
+} */
 
 .gif-class {
     float: left;
@@ -171,7 +171,7 @@ a:hover {
     left: 508px;
 }
 
-#start, #options, #restart  {
+#start, #options, #restart, .show-button  {
     margin: 4px;
     background-color: #4aaaa5;
     border: none;
