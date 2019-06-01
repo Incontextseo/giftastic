@@ -1,5 +1,6 @@
 # giftastic
 Homework 6
+https://incontextseo.github.io/giftastic/
 
 HTML
  - H1
